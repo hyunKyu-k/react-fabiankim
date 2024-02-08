@@ -1,0 +1,17 @@
+{
+  "name": "react-fabiankim",
+  "description": "React Boiler Plate set",
+  "private": false,
+  "keywords": [
+    "CRA, hyunkyu, fabian"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyunKyu-k/react-fabiankim.git"
+  },
+  "version": "0.0.4",
+  "type": "module",
+  "main": "index.ts",
+  "author": "hyunkyu <khg.fabian@gmail.com>",
+  "license": "MIT"
+}
